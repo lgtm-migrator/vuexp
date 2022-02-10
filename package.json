@@ -63,7 +63,7 @@
     "lint-staged": "8.1.5",
     "nightwatch-vrt": "0.2.10",
     "nightwatch_testrail": "1.0.627",
-    "node-sass": "^4.9.4",
+    "node-sass": "^7.0.0",
     "nyc": "13.3.0",
     "rimraf": "^2.6.2",
     "sass-loader": "^7.1.0",
